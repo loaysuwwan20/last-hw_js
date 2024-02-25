@@ -1,0 +1,64 @@
+ .counters{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.count1{
+    display: flex;
+    flex-direction: column;
+    background-color: #d3bce2;
+    border-radius: 10px;
+    padding: 20px;
+    width:300px;
+    height: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+
+
+
+}
+button{
+    width: 20%;
+    margin: auto;
+}
+.count2{
+    display: flex;
+    flex-direction: column;
+    background-color: #d3bce2;
+    border-radius: 10px;
+    padding: 20px;
+    width:300px;
+    height: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+
+
+}
+.count3{
+    display: flex;
+    flex-direction: column;
+    background-color: #d3bce2;
+    border-radius: 10px;
+    padding: 20px;
+    width:300px;
+    height: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+
+
+
+}
+.count4{
+    display: flex;
+    flex-direction: column;
+    background-color: #d3bce2;
+    border-radius: 10px;
+    padding: 20px;
+    width:300px;
+    height: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+
+} 
